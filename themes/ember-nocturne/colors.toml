@@ -1,0 +1,34 @@
+# Ember Nocturne — quiet late-night city warmth.
+mode = "dark"
+
+# Burnt orange stays deliberately sparse: it marks focus, selection, and active controls.
+accent = "#d97736"
+selection = "#34231d"
+selection_foreground = "#f4ead7"
+muted = "#76655a"
+
+background = "#0d0d0c"
+dark_background = "#090908"
+darker_background = "#060605"
+lighter_background = "#1c1917"
+
+foreground = "#e8ddc9"
+dark_foreground = "#a99b8b"
+light_foreground = "#f4ead7"
+bright_foreground = "#fff5df"
+
+red = "#c97155"
+yellow = "#e5a34f"
+orange = "#d97736"
+green = "#9b9a68"
+cyan = "#8eaaa0"
+blue = "#9a9a86"
+magenta = "#b98778"
+brown = "#5c4032"
+
+bright_red = "#e28a68"
+bright_yellow = "#ffc66d"
+bright_green = "#b9b878"
+bright_cyan = "#a8c5b8"
+bright_blue = "#bbbba0"
+bright_magenta = "#d7a08d"

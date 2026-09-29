@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "local.widget-island",
+  "name": "Widget Island",
+  "version": "1.0.0",
+  "author": "Local",
+  "description": "A compact top-right floating island for organizing desktop widgets.",
+  "kinds": ["panel"],
+  "keepLoaded": true,
+  "entryPoints": { "panel": "Island.qml" }
+}
